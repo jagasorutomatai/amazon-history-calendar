@@ -1,0 +1,3 @@
+file:
+  non-digital: "amazon-order_non-digital.csv"
+  digital: "amazon-order_digital.csv"
