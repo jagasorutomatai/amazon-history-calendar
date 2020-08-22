@@ -2,7 +2,7 @@
 ![google_calendar_api_0](https://user-images.githubusercontent.com/62248603/90950890-ca610180-e490-11ea-9011-0c5da38a65ed.PNG)
 
 ## 概要
-Amazonの購入履歴をGoogleカレンダーに反映します
+Amazonの購入履歴をGoogleカレンダーに反映します<br>
 Ruby 2.7.1
 
 ## 前準備
