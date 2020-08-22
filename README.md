@@ -31,16 +31,12 @@ $ bundle install --path vendor/bundle
 
 ### Googleカレンダーに反映するAmazon購入履歴をダウンロードする
 Amazonのアカウントサービスにある注文履歴に進み、CSVファイルをダウンロードする。
-
-
+<br><br>
 領収書印刷用画面ボタンをクリックすると、領収書印刷画面に遷移する。
-![google_calendar_api_02](https://user-images.githubusercontent.com/62248603/90958341-d53a8700-e4ce-11ea-9767-1e8c5537c01b.PNG)
-
+![google_calendar_api_02](https://user-images.githubusercontent.com/62248603/90958341-d53a8700-e4ce-11ea-9767-1e8c5537c01b.PNG) | |:-:|
+<br><br>
 
 注文履歴CSV(参考用)ダウンロードのボタンがあるのでダウンロードする。
-![google_calendar_api_03](https://user-images.githubusercontent.com/62248603/90958353-e5eafd00-e4ce-11ea-9e11-3dc240651312.PNG)
-
-
 ダウンロードしたデータはamazon-history-calendar/app/data配下に配置する。
 またファイル名は以下のようにする。
 - デジタルの場合: amazon-order_digital.csv
