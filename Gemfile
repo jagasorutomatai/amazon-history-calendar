@@ -8,3 +8,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "ruby-gmail"
 gem "json"
 gem "httpclient"
+gem "google-api-client"
+gem 'googleauth'
+gem 'dotenv'
