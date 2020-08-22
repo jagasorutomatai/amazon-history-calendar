@@ -1,0 +1,9 @@
+# Ignore bundler config.
+/vendor
+
+# Ignore csvfile
+/app/data/*
+
+# Ignore keyfile
+/app/config/client_secret.json
+/app/config/credentials.yaml
